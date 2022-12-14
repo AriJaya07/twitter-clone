@@ -30,7 +30,10 @@ function Post({
                     </h3>
                 </div>
                 <div className="post__headerDescription">
-                    <p>Its work</p>
+                    <h3>Google</h3>
+                    <p>
+                        Google has many special features to help you find exactly what you're looking for. <br /> Google also emulates this structural advantage via its super-sophisticated AI. The more people use Google
+                    </p>
                 </div>
             </div>
             <img src="/images/giphy.gif" alt=""/>
