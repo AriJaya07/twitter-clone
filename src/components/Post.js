@@ -7,7 +7,6 @@ import RepeatIcon from '@material-ui/icons/FavoriteBorder';
 import FavoriteBorderIcon from '@material-ui/icons/FavoriteBorder';
 import PublishIcon from '@material-ui/icons/Publish';
 
-
 function Post({
     displayName,
     username,
@@ -18,7 +17,7 @@ function Post({
 }) {
     return <div className="post">
         <div className="post__avatar">
-            <Avatar src="https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/284832/settings_images/rLlCifhXRJiT0RoN2FjK_Logo_roundbackground_black.png" />
+            <Avatar src="images/Ari1.jpg" />
         </div>
         <div className="post__body">
             <div className="post__header">
@@ -34,7 +33,7 @@ function Post({
                     <p> I challange you to buil Twitter Clone</p>
                 </div>
             </div>
-            <img src="https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/284832/settings_images/rLlCifhXRJiT0RoN2FjK_Logo_roundbackground_black.png" alt="" 
+            <img src="/images/google.jpg" alt="" 
             />
             <div className="post__footer">
                 <ChatBubbleOutlineIcon fontSize="small" />
